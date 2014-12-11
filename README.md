@@ -1,4 +1,4 @@
-mw-links
+Microweber web links
 ========
 
 ## Themes
