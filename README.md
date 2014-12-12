@@ -10,7 +10,6 @@ Microweber web links
 
 ### Colors
 * [Adobe color palettes](https://color.adobe.com/explore/newest/?time=all)
-
 * [JS lib for palette generation](https://github.com/c0bra/color-scheme-js)
 
 ### Payments
