@@ -15,3 +15,6 @@ Microweber web links
 ### Payments
 * [Cashier (Stripe)](http://laravel.com/docs/4.2/billing)
 * [Payum - 35 payment methods](https://github.com/Payum/PayumLaravelPackage)
+
+### Social shit
+* [Best Laravel Facebook SDK](https://github.com/SammyK/LaravelFacebookSdk)
